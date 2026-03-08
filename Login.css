@@ -1,0 +1,51 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: blueviolet;
+    width: 180px;
+}
+button{
+    
+    background: #0b0b0b;color: aqua;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(211, 16, 16) ;
+    margin-left: 80px;
+}
+button:hover{
+    background-color: white;
+    color: red;
+}
+#name{
+   color: red; 
+   background-color: rgb(187, 170, 170);
+   width: 150px;
+   height: 40px;
+   border-radius: 5px;
+}
+#password{
+    color: red; 
+    background-color: rgb(187, 170, 170);
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+ }
+.name{
+    color: black;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+ }
+ .password{
+    color: black;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+ }
+
+ 
+
